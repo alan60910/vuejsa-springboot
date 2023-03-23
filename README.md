@@ -1,2 +1,2 @@
-# vuejsandspringboot
+# vuejsspringboot
 just for test
